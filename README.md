@@ -1,4 +1,4 @@
-# Applying AI and Analytics to COVID-19
+# Hands-On Workshop on AI, NLP, and Optimization
 
 ## Introduction
 Many of the use cases in the government and public sector involve analyzing natural language text data.  This workshop will teach you how you can use natural language processing (NLP) features to efficiently analyze large amounts of text to produce actionable insights.  We will also teach you how to create chat-bots to understand constituent’s questions and provide appropriate answers.  Finally, we will discuss the use of Optimization and teach you how to optimally allocate resources which is key to many agencies’ activities.   The workshop is based around an example COVID-19 set of use cases.
