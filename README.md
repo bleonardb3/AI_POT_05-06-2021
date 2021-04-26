@@ -1,7 +1,7 @@
 # Applying AI and Analytics to COVID-19
 
 ## Introduction
-The impact of COVID-19 is wide-spread. Industry and Government planners need capabilities to monitor the COVID-19 surges and measure the current impact on their businesses and communities. Forecasting the demand on resources and putting in place plans to optimally allocate these resources is critical as is disseminating up-to-date information to their citizens, employees, suppliers, and customers. 
+Many of the use cases in the government and public sector involve analyzing natural language text data.  This workshop will teach you how you can use natural language processing (NLP) features to efficiently analyze large amounts of text to produce actionable insights.  We will also teach you how to create chat-bots to understand constituent’s questions and provide appropriate answers.  Finally, we will discuss the use of Optimization and teach you how to optimally allocate resources which is key to many agencies’ activities.   The workshop is based around an example COVID-19 set of use cases.
 
 The purpose of this training session is to teach attendees how to combine different technologies such as Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP) and optimization to support the above capabilities. The training event is structured, through a series of hands-on labs  to demonstrate how these technologies can be combined to develop solutions that can augment planners’ abilities to understand, reason, and act on COVID-19 information and events at scale and speed.
 
