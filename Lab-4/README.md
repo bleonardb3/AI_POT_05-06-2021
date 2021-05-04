@@ -50,6 +50,6 @@ these skills.
 
 ### Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://raw.githubusercontent.com/bleonardb3/AI_POT_11-12-2020/main/Lab-4/Lab%204%20FranceCOVID-19%20Instructions.pdf).
+[Instructions](https://github.com/bleonardb3/AI_POT_05-06-2021/raw/main/Lab-4/Optimization%20Lab%20Instructions%201.2.pdf).
 
 
