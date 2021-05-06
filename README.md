@@ -14,6 +14,8 @@ In this workshop, the attendees will learn how to:
 1. develop dashboards to provide insights to planners. 
 
 # Labs
+[Lab-0](Lab-0) - In this lab, we will setup the Watson Studio environment. 
+
 [Lab-1](Lab-1) - In this lab, we will develop socioeconomic annotators to extract domain-specific information. 
 
 [Lab-2](Lab-2) - In this lab, we will create a knowledge management system (KMS), ingest data, train the KMS to generate knowledge and synthesize a COVID-19 stability index
